@@ -1,0 +1,58 @@
+[
+    {
+        "title": "123",
+        "isbn": "345678",
+        "author": "qsdf",
+        "genre": "1",
+        "availability": "1"
+    },
+    {
+        "title": "Mocking bird",
+        "isbn": "234567",
+        "author": "James",
+        "genre": "2",
+        "availability": "1"
+    },
+    {
+        "title": "James Bond",
+        "isbn": "456789",
+        "author": "James bond",
+        "genre": "4",
+        "availability": "1"
+    },
+    {
+        "title": "Godzilla",
+        "isbn": "987654",
+        "author": "James",
+        "genre": "1",
+        "availability": "1"
+    },
+    {
+        "title": "Jay",
+        "isbn": "998877",
+        "author": "hi",
+        "genre": "1",
+        "availability": "1"
+    },
+    {
+        "title": "GOT",
+        "isbn": "114881",
+        "author": "William shakesphere",
+        "genre": "2",
+        "availability": "1"
+    },
+    {
+        "title": "tcu",
+        "isbn": "260698",
+        "author": "jhv",
+        "genre": "2",
+        "availability": false
+    },
+    {
+        "title": "The tale of the greatest - KS Praveen",
+        "isbn": "476293",
+        "author": "William shakesphere",
+        "genre": "4",
+        "availability": false
+    }
+]
